@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.caedaed7.css",
+    "main.js": "/static/js/main.77c8e3bd.js",
+    "static/js/787.6962f9d7.chunk.js": "/static/js/787.6962f9d7.chunk.js",
+    "static/media/profile.png": "/static/media/profile.852cb70659e38df60677.png",
+    "static/media/order_success.svg": "/static/media/order_success.c9e4ac5254050f5807ac140b291874fd.svg",
+    "index.html": "/index.html",
+    "static/media/add_cart.svg": "/static/media/add_cart.94cf69f3a58cf4584005dea80bc34483.svg",
+    "main.caedaed7.css.map": "/static/css/main.caedaed7.css.map",
+    "main.77c8e3bd.js.map": "/static/js/main.77c8e3bd.js.map",
+    "787.6962f9d7.chunk.js.map": "/static/js/787.6962f9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caedaed7.css",
+    "static/js/main.77c8e3bd.js"
+  ]
+}
