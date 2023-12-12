@@ -1,5 +1,5 @@
 This is an application built as a project to practice ReactJS.
-It an be viewed on Open [Shopping App]([http://localhost:3000](https://shopping-app-b9c1a.web.app/)) to view it in your browser.
+It can be viewed on ([Shopping App](https://shopping-app-b9c1a.web.app/)) to view it in your browser.
 
 ### `npm start`
 
